@@ -1,0 +1,11 @@
+C:\Users\Zach\source\codeworks\C-Sharp\console_library\obj\Debug\netcoreapp3.0\console_library.csprojAssemblyReference.cache
+C:\Users\Zach\source\codeworks\C-Sharp\console_library\obj\Debug\netcoreapp3.0\console_library.AssemblyInfoInputs.cache
+C:\Users\Zach\source\codeworks\C-Sharp\console_library\obj\Debug\netcoreapp3.0\console_library.AssemblyInfo.cs
+C:\Users\Zach\source\codeworks\C-Sharp\console_library\bin\Debug\netcoreapp3.0\console_library.exe
+C:\Users\Zach\source\codeworks\C-Sharp\console_library\bin\Debug\netcoreapp3.0\console_library.deps.json
+C:\Users\Zach\source\codeworks\C-Sharp\console_library\bin\Debug\netcoreapp3.0\console_library.runtimeconfig.json
+C:\Users\Zach\source\codeworks\C-Sharp\console_library\bin\Debug\netcoreapp3.0\console_library.runtimeconfig.dev.json
+C:\Users\Zach\source\codeworks\C-Sharp\console_library\bin\Debug\netcoreapp3.0\console_library.dll
+C:\Users\Zach\source\codeworks\C-Sharp\console_library\bin\Debug\netcoreapp3.0\console_library.pdb
+C:\Users\Zach\source\codeworks\C-Sharp\console_library\obj\Debug\netcoreapp3.0\console_library.dll
+C:\Users\Zach\source\codeworks\C-Sharp\console_library\obj\Debug\netcoreapp3.0\console_library.pdb
